@@ -1,8 +1,6 @@
 /*
  * timer.c
- *
- * Created: 9/25/2019 7:22:07 PM
- *  Author: Mohamed Zaghlol
+ 
  */ 
  
 #include "../LIB/std_macros.h"
